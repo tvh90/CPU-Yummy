@@ -1,6 +1,1 @@
-getgenv().Team = "Marines"
-        getgenv().Xero_Setting = {  
-    ['Key'] = 'SCGab97EnURo54W',
-    ['Device'] = 'Xero-1',
-}
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Xero2409/Panel/refs/heads/main/panel.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skadidau/unfazedfree/refs/heads/main/bfchangeacc"))()
